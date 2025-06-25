@@ -1,8 +1,9 @@
 # Algoritmos y Estructuras de Datos
 
-Este repositorio contiene ejercicios, prácticas y parciales relacionados con la materia durante el **año 2025**.
+Este repositorio contiene ejercicios, prácticas y parciales relacionados con la materia.
 
 ## Contenido
+### Año 2025
 
 * **[Ejercitacion_AB-AE-AG](2025/src/Ejercitacion_AB-AE-AG/)**: Ejercicios teóricos de Árboles Binarios, Árboles de Expresión y Árboles Generales.
 * **[Ejercitacion_AnalisisDeAlgoritmos](2025/src/Ejercitacion_AnalisisDeAlgoritmos/)**: Ejercicios teóricos de análisis y complejidad de algoritmos.
